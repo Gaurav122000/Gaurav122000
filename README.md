@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
+<h1 align="center">Hi 😎, I'm Gaurav Sharma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav122000&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav122000" /> </p>
