@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😎, I'm Gaurav Sharma</h1>
-<div>
+<div style="justify-content: center;">
   <p><img src="https://github.com/Gaurav122000/Gaurav122000/assets/100744516/dc1287b4-fbda-4853-9431-e6e95e40068a"></p
   <h3 align="center">A passionate Software Developer from India</h3>
 </div>
