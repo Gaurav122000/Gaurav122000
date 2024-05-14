@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav122000&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav122000" /> </p>
 
-- 🌱 I’m currently learning **Django, DSA, D#.js**
+- 🌱 I’m currently learning **Django, DSA, D3.js**
 
 - 👨‍💻 All of my projects are available at [https://gaurav-sharma-portfolio.netlify.app/](https://gaurav-sharma-portfolio.netlify.app/)
 
